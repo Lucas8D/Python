@@ -11,3 +11,7 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - selenium
+  - pyautogui
+  - pywinauto
+  - bs4
